@@ -13,10 +13,6 @@ Sentiment Analysis is one of the most famous applications of Natural Language Pr
 
 <br>
 
-## Live Link
-**Hosted on streamlit**
-
-### 🔗 https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py
 <br>
 
 ## Project Specifications
